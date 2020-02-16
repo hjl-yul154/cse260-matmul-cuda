@@ -1,4 +1,4 @@
-#define BLOCK_SIZE_M 64
+#define BLOCK_SIZE_M 96
 #define BLOCK_SIZE_N 64
 
 #define ROUND_UP(n, d) (n + d - 1) / d
